@@ -8,7 +8,12 @@ you have to convert this file to .exe file for windows  and make it autorun for 
 Just you have to change email id's and path to keylogger generated text file.
 This will send the keylogger generated text file to the recivers email id .
 ## How to convert python file to .exe
-
+1.run your python setup
+2.click modify tjen click checkbox pip
+3.on cmd run following command 'auto-py-to-exe'
+4.do tne need ful things
+  your exe is ready
+# for full software contact nikhil.mohan_cs18@gla.ac.in
 ## Developers
 # Decoders society
  Head developers : Nikhil Mohan
