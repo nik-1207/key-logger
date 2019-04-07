@@ -4,7 +4,7 @@ created by "Decoders Society"
 version 0.0.1
 Head Developer :       Nikhil Mohan
 Assistant Developer : Priyanshu shukla,Prantu Dixit
-Mentor : Divyansh Bhardwaj
+Mentor : Divyansh Bhardwaj,Krishna kant di0wedi
 Instution :Gla University (Mathura)
 Do not forget to change email id in line  53,54
 '''
