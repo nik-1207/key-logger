@@ -11,7 +11,7 @@ This will send the keylogger generated text file to the recivers email id .
 1.run your python setup
 2.click modify tjen click checkbox pip
 3.on cmd run following command 'auto-py-to-exe'
-4.do tne need ful things
+4.do the need ful things
   your exe is ready
 # for full software contact nikhil.mohan_cs18@gla.ac.in
 ## Developers
