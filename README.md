@@ -2,7 +2,6 @@
 This keylogger is developed for education purpose only.
 I am not responsible for any of illegal work you do with that. 
 # key-logger
-keylogger
 This is the advanced version of key logger v 0.0.1
 you have to convert this file to .exe file for windows  and make it autorun for completely spying  a persons keyboard
 Just you have to change email id's and path to keylogger generated text file
