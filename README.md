@@ -1,4 +1,4 @@
-## Discalmer  
+## Disclaimer
 This keylogger is developed for education purpose only.  
 I am not responsible for any of illegal work you do with that.   
 
