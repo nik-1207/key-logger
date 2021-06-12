@@ -12,9 +12,8 @@ do not forget to install pynput package available above
 ## How to convert python file to .exe  
   https://pypi.org/project/auto-py-to-exe/  
 ## Developers  
-    # Decoders society
+    Decoders society
     Head developers : Nikhil Mohan  
-    Assistant developers: Priyanshu shukla,Prantu dixit  
-    Mentor:Divyansh Bhardwaj,krishna Kant Diewedi  
+    Mentor:Divyansh Bhardwaj
     Instutuion :Gla University   
  
